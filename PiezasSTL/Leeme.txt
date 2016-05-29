@@ -1,0 +1,7 @@
+En estas carpetas se reparten los diferentes sabores de la Prusa I3 de Moebyus Machines.
+
+En la carpeta "Piezas Comunes" Estan las que son comunes a todos los montajes (Eje X)
+
+En la carpeta "Prusa I3 MM" estan las piezas especificas para las de corte de metracrilato y aluminio.
+
+En la carpeta "Steel-MM" estan las piezas especificas para la de acero(steel).
